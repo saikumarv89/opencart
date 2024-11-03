@@ -1,0 +1,22 @@
+18:13:47.697 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating messaget TC_oo1 AccountRegistrationTest
+18:15:48.492 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:20:13.298 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:22:19.658 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:22:20.734 [main] INFO  testcases.TC_001_AccountRegistrationTest -  Clicked on Registration link
+18:22:20.740 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing customer detatils
+18:26:18.502 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:26:19.806 [main] INFO  testcases.TC_001_AccountRegistrationTest -  Clicked on Registration link
+18:26:19.809 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing customer detatils
+18:26:46.635 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:26:47.979 [main] INFO  testcases.TC_001_AccountRegistrationTest -  Clicked on Registration link
+18:26:47.983 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing customer detatils
+18:29:43.210 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:30:33.745 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:30:34.859 [main] INFO  testcases.TC_001_AccountRegistrationTest -  Clicked on Registration link
+18:30:34.862 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing customer detatils
+18:31:00.871 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+18:34:31.727 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+22:45:51.367 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+22:47:37.202 [main] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+22:54:38.365 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
+22:54:39.920 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - Stating message TC_oo1 AccountRegistrationTest
